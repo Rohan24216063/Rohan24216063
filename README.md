@@ -3,7 +3,7 @@
   
   <h3>🚀 Software Developer | Backend Architect | AI Specialist</h3>
   <p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=Rohan24216063&icon=5&color=0" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=Rohan24216063&label=PROFILE+VIEWS&color=007ACC&style=for-the-badge" alt="Views" />
   </p>
 </div>
 
