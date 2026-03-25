@@ -85,13 +85,28 @@ I am a **Software Developer** specialized in building robust backend systems and
 ---
 ---
 
-### 📊 GitHub Analysis
+### 📊 GitHub Analytics & Performance
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rohan24216063&theme=tokyonight&show_icons=true&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan24216063&theme=tokyonight&layout=compact&hide_border=true" height="180" />
-  <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohan24216063&theme=tokyonight&hide_border=true" width="100%" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Rohan24216063&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&title_color=007ACC&text_color=ffffff&icon_color=007ACC&bg_color=1a1b26" height="190" alt="Rohan's Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan24216063&theme=tokyonight&layout=compact&hide_border=true&title_color=007ACC&text_color=ffffff&bg_color=1a1b26" height="190" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Rohan24216063&theme=tokyonight&hide_border=true&stroke=007ACC&background=1a1b26" width="98%" alt="GitHub Streak" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rohan24216063&theme=tokyonight" width="98%" />
+</p>
 
 ---
 
